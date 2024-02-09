@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{D0FE8A74-44D7-4647-B5EB-6191C61F6944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emtities", "Emtities\Emtities.csproj", "{8E3082F6-A0B5-4EA8-BA4C-ABBECBF5F695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{F225D371-11B1-45D9-A8C5-6245946699EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0FE8A74-44D7-4647-B5EB-6191C61F6944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FE8A74-44D7-4647-B5EB-6191C61F6944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FE8A74-44D7-4647-B5EB-6191C61F6944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FE8A74-44D7-4647-B5EB-6191C61F6944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3082F6-A0B5-4EA8-BA4C-ABBECBF5F695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3082F6-A0B5-4EA8-BA4C-ABBECBF5F695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3082F6-A0B5-4EA8-BA4C-ABBECBF5F695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3082F6-A0B5-4EA8-BA4C-ABBECBF5F695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F225D371-11B1-45D9-A8C5-6245946699EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F225D371-11B1-45D9-A8C5-6245946699EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F225D371-11B1-45D9-A8C5-6245946699EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F225D371-11B1-45D9-A8C5-6245946699EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55DEE954-FAFD-4545-8862-50D1F96315C8}
+	EndGlobalSection
+EndGlobal
